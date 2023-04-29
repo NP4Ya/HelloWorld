@@ -10,7 +10,16 @@ namespace helloworld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Random random = new Random();
+            int a = random.Next(1, 11);
+            if (a > 11)
+            {
+                Console.WriteLine("Hey, Mr.Arghworth!");
+            }
+            else
+            {
+                Console.WriteLine("Hello World!");
+            }
             Console.ReadKey();
         }
     }

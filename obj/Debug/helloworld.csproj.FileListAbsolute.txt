@@ -1,0 +1,8 @@
+D:\ВУЗ\Website\GitHub\test\helloworld\bin\Debug\helloworld.exe.config
+D:\ВУЗ\Website\GitHub\test\helloworld\bin\Debug\helloworld.exe
+D:\ВУЗ\Website\GitHub\test\helloworld\bin\Debug\helloworld.pdb
+D:\ВУЗ\Website\GitHub\test\helloworld\obj\Debug\helloworld.csproj.AssemblyReference.cache
+D:\ВУЗ\Website\GitHub\test\helloworld\obj\Debug\helloworld.csproj.SuggestedBindingRedirects.cache
+D:\ВУЗ\Website\GitHub\test\helloworld\obj\Debug\helloworld.csproj.CoreCompileInputs.cache
+D:\ВУЗ\Website\GitHub\test\helloworld\obj\Debug\helloworld.exe
+D:\ВУЗ\Website\GitHub\test\helloworld\obj\Debug\helloworld.pdb
